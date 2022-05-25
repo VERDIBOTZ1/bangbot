@@ -1,6 +1,6 @@
 /*
-› Create By @Jaka
-› Base Ori @Jaka
+› Create By @BABY
+› Base Ori @hisoka
 › Kalau mau ubah/edit owner di settings.js
 › Kalau mau tambahin fitur di index.js
 */
@@ -26,26 +26,26 @@ return`  _Selamat ${salam} dek ${pushname}_
   *📚 List Menu : ${botname}*
 
   *GROUP MENU*
-  *≻* ${prefix}linkgroup
-  *≻* ${prefix}ephemeral [option]
-  *≻* ${prefix}setppgc
-  *≻* ${prefix}setname 
-  *≻* ${prefix}setdesc 
-  *≻* ${prefix}group [option]
-  *≻* ${prefix}editinfo [option]
-  *≻* ${prefix}add @user
-  *≻* ${prefix}kick @user
-  *≻* ${prefix}hidetag 
-  *≻* ${prefix}tagall 
-  *≻* ${prefix}antilink [on/off]
-  *≻* ${prefix}mute [on/off]
-  *≻* ${prefix}promote @user
-  *≻* ${prefix}demote @user
-  *≻* ${prefix}vote 
-  *≻* ${prefix}devote
-  *≻* ${prefix}upvote
-  *≻* ${prefix}cekvote
-  *≻* ${prefix}hapusvote
+  *≻* ${prefix}linkgroup🗿
+  *≻* ${prefix}ephemeral [option]🗿
+  *≻* ${prefix}setppgc🗿
+  *≻* ${prefix}setname 🗿
+  *≻* ${prefix}setdesc 🗿
+  *≻* ${prefix}group [option]🗿
+  *≻* ${prefix}editinfo [option]🗿
+  *≻* ${prefix}add @user🗿
+  *≻* ${prefix}kick @user🗿
+  *≻* ${prefix}hidetag 🗿
+  *≻* ${prefix}tagall 🗿
+  *≻* ${prefix}antilink [on/off]🗿
+  *≻* ${prefix}mute [on/off]🗿
+  *≻* ${prefix}promote @user🗿
+  *≻* ${prefix}demote @user🗿
+  *≻* ${prefix}vote 🗿
+  *≻* ${prefix}devote🗿
+  *≻* ${prefix}upvote🗿
+  *≻* ${prefix}cekvote🗿
+  *≻* ${prefix}hapusvote🗿
   
   *DOWNLOADER MENU*
   *≻* ${prefix}tiktoknowm 
@@ -456,23 +456,23 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
+  *≻* Sewa Bot 15k (1 minggu)🐋
+  *≻* Sewa Bot 20k (1 bulan)🐋
+  *≻* Sewa Bot 25k (Permanen)🐋
 
   *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
+  *≻* Jadi Bot 15k Tidak Owner (1 minggu)😭
+  *≻* Jadi Bot + Owner 20k (1 bulan)😒
+  *≻* Jadi Bot + Owner 25k (Permanen)😍
 
   *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
+  *≻* Run Bot 15k (1 minggu)😭
+  *≻* Run Bot 20k (1 bulan)😹
+  *≻* Run Bot 25k (Permanen)😂
 
-  *Minat? Langsung chat aja ya cuy 🐦*
+  *Minat? Langsung chat aja spam p ke owner*
 
-  *Contact person Owner* :
+  *Contact/nomer Owner* :
   wa.me/${ownernomer}
 `
 }
@@ -961,6 +961,6 @@ exports.thanksto = () => {
   *≻* Deff
   *≻* Sanzy
   *≻* Jaka
-  *≻* Verdi
+  *≻* Verdi[yang recode chika md]
 `
 }
