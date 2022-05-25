@@ -1,6 +1,6 @@
 /*
-› Create By @Jaka
-› Base Ori @Jaka
+› Create By @chika bot md
+› Base Ori @hisoka morou
 › Kalau mau tambahin fitur di index.js
 › Edit text menu di file language › help.js
 */
@@ -22,27 +22,27 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285785694474','6281335334848','6281335334848'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.premium = ['6285785694474'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
-global.ownernomer = '6285785694474' //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['628570675450','6285706735450','6283869803330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.premium = ['6283869803330'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.ownernomer = '6285706735450' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Alyrine-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'VERDI' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'BANKEKAUBOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'VERDI' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UC7jyjV6kcG6qTV_VcJtJzzA'
-global.ig = 'https://instagram.com/zetwo_botz'
-global.mygc = 'https://chat.whatsapp.com/ED7th5Ie38eBayZEbDPxwY'
-global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'jkasmprn@gmail.com'
-global.region = 'indonesia'
+global.youtube = 'blum buat yt banh:('
+global.ig = 'https://instagram.com/VERDI_ZZ'
+global.mygc = 'https://chat.whatsapp.com/DlbBRRvPR128DzqnFHlWAD'
+global.myweb = 'https://github.com/VERDIBOTZ1'
+global.email = 'okebang2022@gmail.com'
+global.region = 'tokyo😆'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Alyrine-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Jaka' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© mekimu-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'mekiy' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -62,7 +62,7 @@ global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/14e6e405397e283dac8ec.jpg'
+global.BgWelcLeav = 'https://telegra.ph/file/1a3eac3701775793618b3.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
