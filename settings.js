@@ -82,16 +82,16 @@ global.sp = '⭔'
 //—————「 Set Message 」—————//
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
-success: '_Udh tod._',
-admin: '_Lu admin tod?!_',
-botAdmin: '_Jadi in admin dulu bot nya tod_',
-owner: '_Fitur Khusus Jaka tersayang_',
-group: '_Fitur Hanya bisa di grup tod!_',
-private: '_Fitur Hanya bisa di pribadi cjat tod!_',
-bot: '_Fitur Khusus Penguna Bot Ya Tod_',
-wait: '_Loanjing..._',
-error: '_Error ajg, kalo ga mo error donasi!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+success: '_Udh anjg._',
+admin: '_lah kok tiba tiba jadi admin?!_',
+botAdmin: '_Jadi in admin dulu bot nya anjg_',
+owner: '_kamu bukan owner ku_',
+group: '_Fitur Hanya bisa di pakek di grup asu!_',
+private: '_Fitur Hanya bisa di pribadi njig!_',
+bot: '_Fitur Khusus Penguna Bot Ya bang_',
+wait: '_Lokayakanjg..._',
+error: '_Error ajg, lu pikir bot bisa ga eror!_',
+endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12 ya anjg_',
 }
 
 //—————「 Batas Akhir 」—————//
